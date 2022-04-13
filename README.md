@@ -1,8 +1,8 @@
 # Samuel Scott
 
 Interested in:
-- Robots
-- Rockets
+- Robots 🤖
+- Rockets 🚀
 - Electronics
-- C/C++
+- C/C++ 
 - Rust  :crab:
