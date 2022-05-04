@@ -1,7 +1,7 @@
 # Samuel Scott
 
 Interested in:
-- Robots 🤖
+- Robots 🤖 - https://www.youtube.com/watch?v=MelQNC1I7Ws
 - Rockets 🚀
 - Electronics
 - C/C++ 
