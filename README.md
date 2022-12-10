@@ -5,4 +5,4 @@ Interested in:
 - Rockets 🚀
 - Electronics
 - C/C++ 
-- Rust  :crab:
+- MBSE
